@@ -1,0 +1,8 @@
+2024-05-29 00:28:26,588 - WARNING - {'url': '/mechanic/signup', 'method': 'POST', 'time_taken': 0.023, 'response status': 406}
+2024-05-29 00:28:44,109 - INFO - {'url': '/user/signup', 'method': 'POST', 'time_taken': 0.3, 'response status': 201}
+2024-05-29 00:29:12,565 - INFO - {'url': '/mechanics', 'method': 'GET', 'time_taken': 0.005, 'response status': 200}
+2024-05-29 00:29:29,173 - ERROR - {'url': '/auth/newrequest', 'method': 'POST', 'time_taken': 0.003, 'response status': 401}
+2024-05-29 00:29:42,716 - INFO - {'url': '/auth/token', 'method': 'POST', 'time_taken': 0.261, 'response status': 200}
+2024-05-29 00:29:47,588 - INFO - {'url': '/auth/newrequest', 'method': 'POST', 'time_taken': 0.024, 'response status': 201}
+2024-05-29 00:30:03,151 - INFO - {'url': '/auth/deleterequest/1', 'method': 'DELETE', 'time_taken': 0.012, 'response status': 200}
+2024-05-29 00:30:15,569 - INFO - {'url': '/auth/profile/edit', 'method': 'PATCH', 'time_taken': 0.018, 'response status': 200}
